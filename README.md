@@ -54,6 +54,8 @@ Train, validation ve test setleri arasında:
 └── README.md
 
 ## ⚙️ Installation
+
+```bash
 pip install -r requirements.txt
 
 ## ▶️ Inference
@@ -63,7 +65,6 @@ pip install -r requirements.txt
 
 Örnek kullanım:
 
-```bash
 python inference.py --image sample.jpg --model densenet121_best.pt
 ## 🔽 Trained Model Weights
 
