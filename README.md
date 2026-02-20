@@ -66,6 +66,7 @@ pip install -r requirements.txt
 Örnek kullanım:
 
 python inference.py --image sample.jpg --model densenet121_best.pt
+
 ## 🔽 Trained Model Weights
 
 Eğitilmiş DenseNet121 model ağırlıkları GitHub Release sayfasında paylaşılmıştır:
