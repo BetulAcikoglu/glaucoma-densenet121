@@ -1,0 +1,2836 @@
+{
+  "classes": [
+    "normal",
+    "glokom"
+  ],
+  "label2id": {
+    "normal": 0,
+    "glokom": 1
+  },
+  "train": [
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im278_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im383_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im524_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im499_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im507_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im413_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im160_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im061_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im275_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im235_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im064_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im340_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im182_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im437_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im416_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im307_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im035_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im599_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im027_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im120_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im400_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im393_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im456_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im129_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im584_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im052_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im287_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im257_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im215_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im041_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im057_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im335_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im476_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im146_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im132_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im593_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im475_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im528_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im069_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im592_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im443_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im603_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im648_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im530_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im614_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im518_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im054_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im397_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im406_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im639_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im117_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im102_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im398_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im196_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im272_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im469_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im048_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im290_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im357_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im664_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im655_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im119_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im153_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im432_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im535_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im377_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im367_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im133_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im361_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im168_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im661_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im404_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im076_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im581_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im066_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im073_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im605_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im105_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im109_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im011_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im228_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im549_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im223_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im211_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im423_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im681_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im024_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im563_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im445_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im399_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im100_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im175_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im373_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im483_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im698_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im213_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im559_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im586_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im118_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im221_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im657_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im222_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im363_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im702_g_ACRIMA.JPG",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im550_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im101_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im454_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im346_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im403_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im660_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im514_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im460_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im459_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im239_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im261_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im151_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im509_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im288_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im190_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im617_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im062_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im337_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im281_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im339_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im241_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im089_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im028_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im237_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im020_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im022_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im234_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im049_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im520_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im232_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im587_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im286_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im470_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im025_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im555_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im485_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im548_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im635_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im070_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im375_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im464_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im224_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im156_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im247_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im086_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im669_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im055_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im686_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im322_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im577_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im002_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im690_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im255_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im431_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im580_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im611_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im612_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im325_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im589_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im688_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im490_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im004_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im134_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im495_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im179_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im273_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im007_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im463_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im283_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im632_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im590_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im462_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im345_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im620_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im594_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im503_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im543_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im687_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im270_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im575_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im314_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im305_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im203_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im162_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im428_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im157_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im317_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im531_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im630_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im566_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im276_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im378_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im545_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im651_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im392_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im326_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im387_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im303_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im674_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im144_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im267_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im266_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im540_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im448_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im414_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im330_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im623_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im149_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im165_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im465_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im676_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im412_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im030_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im294_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im567_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im667_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im306_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im689_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im251_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im522_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im665_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im046_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im034_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im289_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im616_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im552_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im295_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im685_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im682_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im127_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im218_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im210_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im572_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im493_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im557_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im494_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im031_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im376_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im012_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im409_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im576_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im358_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im496_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im351_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im388_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im691_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im565_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im333_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im042_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im365_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im585_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im560_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im704_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im417_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im250_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im253_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im140_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im430_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im139_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im219_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im510_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im029_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im501_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im517_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im032_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im068_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im309_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im411_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im583_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im529_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im176_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im143_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im405_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im526_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im385_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im058_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im474_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im202_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im242_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im536_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im521_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im421_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im606_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im677_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im656_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im329_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im338_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im626_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im098_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im074_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im297_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im525_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im021_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im455_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im447_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im201_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im172_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im114_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im564_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im155_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im694_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im006_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im259_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im282_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im502_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im380_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im088_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im457_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im112_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im005_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im489_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im468_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im659_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im658_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im588_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im084_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im696_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im277_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im161_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im111_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im230_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im692_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im121_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im670_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im369_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im183_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im486_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im384_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im128_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im158_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im607_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im194_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im159_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im065_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im561_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im085_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im441_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im291_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im653_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im343_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im402_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im181_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im044_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im177_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im079_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im354_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im094_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im466_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im453_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im680_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im200_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im618_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im353_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im608_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im209_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im163_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im026_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im609_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im311_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im396_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im573_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im624_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im319_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im178_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im374_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im302_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im204_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im439_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im050_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im214_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im415_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im039_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im268_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im533_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im180_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im679_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im519_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im301_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im103_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im703_g_ACRIMA.JPG",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im053_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im115_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im672_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im166_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im229_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im227_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im551_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im246_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im558_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im628_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im538_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im512_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im265_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im424_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im185_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im170_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im429_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im446_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im016_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im695_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im570_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im579_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im419_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im108_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im362_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im003_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im233_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im349_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im591_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im059_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im318_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im347_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im304_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im622_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im484_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im091_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im321_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im427_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im389_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im083_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im556_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im701_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im013_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im621_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im110_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im597_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im293_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im145_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im014_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im142_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im296_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im366_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im673_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im071_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im350_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im640_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im248_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im320_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im675_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im481_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im072_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im697_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im099_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im137_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im356_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im310_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im596_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im477_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im148_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im602_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im015_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im130_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im043_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im348_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im440_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im497_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im205_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im299_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im436_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im254_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im199_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im174_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im513_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im372_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im092_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im312_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im452_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im615_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im546_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im578_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im090_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im401_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im700_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im654_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im472_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im313_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im001_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im123_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im364_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im186_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im598_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im435_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im195_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im078_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im060_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im244_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im271_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im379_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im131_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im331_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im355_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im164_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im505_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im394_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im323_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im574_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im359_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im198_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im126_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im544_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im511_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im236_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im256_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im332_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im212_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im245_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im274_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im601_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im705_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im527_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im045_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im547_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im458_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im381_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im562_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im386_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im010_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im328_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im582_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im284_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im631_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im038_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im019_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im225_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im652_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im663_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im391_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im113_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im191_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im467_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im478_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im300_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im368_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im316_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im124_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im033_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im238_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im498_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im292_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im541_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im370_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im488_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im150_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im220_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im451_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im106_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im188_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im093_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im138_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im450_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im125_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im641_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im642_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im650_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im568_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im516_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im382_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im260_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im040_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im638_g_ACRIMA.jpg",
+      "label": "glokom"
+    }
+  ],
+  "val": [
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im444_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im104_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im141_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im684_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im154_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im442_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im395_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im344_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im187_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im491_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im051_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im077_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im479_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im619_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im480_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im422_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im095_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im173_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im408_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im206_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im167_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im226_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im336_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im699_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im152_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im613_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im449_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im515_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im279_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im534_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im643_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im136_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im487_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im036_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im625_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im240_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im532_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im135_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im600_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im662_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im056_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im646_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im169_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im216_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im096_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im047_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im537_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im280_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im471_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im023_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im647_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im407_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im683_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im569_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im252_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im410_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im193_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im107_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im649_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im420_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im637_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im341_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im492_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im634_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im666_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im604_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im017_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im122_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im243_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im217_ACRIMA.jpg",
+      "label": "normal"
+    }
+  ],
+  "test": [
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im192_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im231_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im418_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im263_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im636_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im080_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im542_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im197_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im508_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im097_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im360_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im504_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im324_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im298_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im371_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im075_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im018_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im434_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im390_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im264_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im539_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im147_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im208_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im037_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im627_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im425_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im473_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im063_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im678_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im433_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im610_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im342_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im553_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im269_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im315_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im067_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im461_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im595_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im189_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im523_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im087_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im571_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im262_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im334_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im506_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im082_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im207_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im671_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im308_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im184_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im249_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im327_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im116_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im554_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im009_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im668_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im645_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im500_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im258_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im285_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im693_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im644_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im629_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im008_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im426_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im352_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im633_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im482_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/glokom/Im438_g_ACRIMA.jpg",
+      "label": "glokom"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im081_ACRIMA.jpg",
+      "label": "normal"
+    },
+    {
+      "path": "/content/drive/MyDrive/GLOKOM PROJE/DataSet/Images/normal/Im171_ACRIMA.jpg",
+      "label": "normal"
+    }
+  ]
+}
