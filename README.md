@@ -56,7 +56,7 @@ Train, validation ve test setleri arasında:
 ## ⚙️ Installation
 ```bash
 pip install -r requirements.txt
-
+```
 ## ▶️ Inference
 
 `inference.py` dosyası kullanılarak tek bir fundus görüntüsü üzerinden
