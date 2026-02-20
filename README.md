@@ -1,15 +1,23 @@
 # Glaucoma Detection with DenseNet121
 
-This repository contains a deep learning–based glaucoma detection model trained on retinal fundus images using **DenseNet121**.
+Bu repository, **retinal fundus görüntüleri** kullanılarak glokom hastalığının tespiti için
+geliştirilmiş, **DenseNet121** tabanlı bir derin öğrenme modelini içermektedir.
 
-## 📌 Project Overview
-- **Task:** Binary classification (Glaucoma vs Normal)
+Model, PyTorch framework’ü kullanılarak eğitilmiş ve değerlendirilmiştir.
+
+---
+
+## 📌 Project Overview (Proje Özeti)
+
+- **Task:** Binary classification (Glaucoma / Normal)
 - **Model:** DenseNet121 (ImageNet pretrained)
 - **Framework:** PyTorch
 - **Training Environment:** Google Colab
 
-The model was trained and evaluated using a **stratified train/validation/test split** to prevent class imbalance and data leakage.
+Model; sınıf dengesizliğini ve veri sızıntısını (data leakage) önlemek amacıyla
+**stratified train / validation / test split** yöntemi kullanılarak eğitilmiş ve test edilmiştir.
 
+---
 ## 📊 Dataset
 - Total images: **705**
   - Glaucoma: 396
@@ -32,7 +40,11 @@ Confusion Matrix:
 [[31  0]
  [ 0 40]]
 
-No data leakage or duplicate images were detected between splits.
+Train, validation ve test setleri arasında:
+- Veri sızıntısı (data leakage)
+- Aynı görüntünün birden fazla sette bulunması (duplicate images)
+
+**tespit edilmemiştir.**
 
 ## 📁 Repository Structure
 .
@@ -49,8 +61,7 @@ A simple inference script will be provided to run prediction on a single fundus 
 
 ## 🔽 Trained Model Weights
 
-The pretrained DenseNet121 model can be downloaded from the GitHub Release page:
-
+Eğitilmiş DenseNet121 model ağırlıkları GitHub Release sayfasında paylaşılmıştır:
 👉 https://github.com/BetulAcikoglu/glaucoma-densenet121/releases/tag/v1.0
 
 File:
@@ -60,6 +71,15 @@ File:
 
 
 ## ⚠️ Disclaimer
-This project is intended for **research and educational purposes only**.
-It is **not a clinically approved diagnostic tool**.
-Further validation on larger and more diverse clinical datasets is required.
+Bu proje araştırma ve eğitim amaçlıdır.
+Klinik kullanım için onaylanmış bir tanı sistemi değildir.
+
+Modelin klinik ortamlarda kullanılabilmesi için;
+
+Daha büyük veri setleri
+
+Farklı popülasyonlar
+
+Çok merkezli klinik çalışmalar
+
+ile ek doğrulama yapılması gerekmektedir.
