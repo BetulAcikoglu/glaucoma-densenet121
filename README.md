@@ -54,7 +54,6 @@ Train, validation ve test setleri arasında:
 └── README.md
 
 ## ⚙️ Installation
-
 ```bash
 pip install -r requirements.txt
 
