@@ -47,6 +47,18 @@ pip install -r requirements.txt
 ## ▶️ Inference
 A simple inference script will be provided to run prediction on a single fundus image.
 
+## 🔽 Trained Model Weights
+
+The pretrained DenseNet121 model can be downloaded from the GitHub Release page:
+
+👉 https://github.com/BetulAcikoglu/glaucoma-densenet121/releases/tag/v1.0
+
+File:
+- `densenet121_best.pt` (PyTorch model weights)
+
+
+
+
 ## ⚠️ Disclaimer
 This project is intended for **research and educational purposes only**.
 It is **not a clinically approved diagnostic tool**.
