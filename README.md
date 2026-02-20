@@ -57,8 +57,14 @@ Train, validation ve test setleri arasında:
 pip install -r requirements.txt
 
 ## ▶️ Inference
-A simple inference script will be provided to run prediction on a single fundus image.
 
+`inference.py` dosyası kullanılarak tek bir fundus görüntüsü üzerinden
+**glokom / normal** tahmini yapılabilir.
+
+Örnek kullanım:
+
+```bash
+python inference.py --image sample.jpg --model densenet121_best.pt
 ## 🔽 Trained Model Weights
 
 Eğitilmiş DenseNet121 model ağırlıkları GitHub Release sayfasında paylaşılmıştır:
