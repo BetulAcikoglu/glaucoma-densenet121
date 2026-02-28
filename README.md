@@ -81,6 +81,8 @@ File:
 Bu proje araştırma ve eğitim amaçlıdır.
 Klinik kullanım için onaylanmış bir tanı sistemi değildir.
 
+---
+
 Modelin klinik ortamlarda kullanılabilmesi için;
 
 Daha büyük veri setleri
@@ -88,5 +90,39 @@ Daha büyük veri setleri
 Farklı popülasyonlar
 
 Çok merkezli klinik çalışmalar
+
+
+---
+
+## 🧪 External Test Results (New / Different-domain)
+
+Model, eğitim/validation/test setleriyle **hiç çakışmayan** ayrı bir test kümesi
+(New_Test_Data) üzerinde ayrıca değerlendirilmiştir.
+
+- Normal: **93**
+- Glokom: **51**
+- Toplam: **144**
+- Data leakage / duplicate: **0** (hash/MD5 kontrolü)
+
+### Results
+- **Accuracy:** 0.4167
+
+Confusion Matrix:
+[[ 9 84]
+[ 0 51]]
+
+
+### Interpretation
+- Model, bu yeni test setinde **normal sınıfını ayırt etmekte zorlanmış**
+  ve yüksek sayıda **false positive** üretmiştir.
+- Bu durum, genellikle **domain shift** (farklı veri kaynağı, çekim koşulları,
+  cihaz veya ön işleme farkları) ve/veya **overfitting** ile ilişkilidir.
+- Model, eğitildiği veri dağılımında yüksek performans gösterirken,
+  farklı dağılımdan gelen verilerde genelleme yapamamıştır.
+
+Bu sonuçlar, modelin klinik kullanımdan önce
+**daha büyük ve çok merkezli veri setleri** ile
+ek doğrulamalara ihtiyaç duyduğunu göstermektedir.
+
 
 ile ek doğrulama yapılması gerekmektedir.
